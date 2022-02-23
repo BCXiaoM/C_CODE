@@ -1,0 +1,3 @@
+﻿  test.c
+D:\BCXiaoM\test_2_23\test_2_23\test.c(172): warning C4716: “Num”: 必须返回一个值
+  test_2_23.vcxproj -> D:\BCXiaoM\test_2_23\x64\Debug\test_2_23.exe
