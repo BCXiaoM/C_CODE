@@ -1,0 +1,6 @@
+﻿  test.c
+D:\BCXiaoM\test_2_24\test_2_24\test.c(61,64): warning C4098: “cmp_stu_name”:“void”函数返回值
+D:\BCXiaoM\test_2_24\test_2_24\test.c(69,34): warning C4098: “cmp_int”:“void”函数返回值
+D:\BCXiaoM\test_2_24\test_2_24\test.c(118,44): warning C4133: “函数”: 从“void (__cdecl *)(const void *,const void *)”到“int (__cdecl *)(const void *,const void *)”的类型不兼容
+D:\BCXiaoM\test_2_24\test_2_24\test.c(126,43): warning C4133: “函数”: 从“void (__cdecl *)(const void *,const void *)”到“int (__cdecl *)(const void *,const void *)”的类型不兼容
+  test_2_24.vcxproj -> D:\BCXiaoM\test_2_24\x64\Debug\test_2_24.exe
