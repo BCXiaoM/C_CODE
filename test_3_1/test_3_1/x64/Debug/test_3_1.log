@@ -1,0 +1,3 @@
+﻿  test.c
+D:\BCXiaoM\test_3_1\test_3_1\test.c(182,2): warning C4002: 类函数宏的调用“assert”参数过多
+  test_3_1.vcxproj -> D:\BCXiaoM\test_3_1\x64\Debug\test_3_1.exe
