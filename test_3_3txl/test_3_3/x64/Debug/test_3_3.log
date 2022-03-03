@@ -1,0 +1,3 @@
+﻿  contact.c
+D:\BCXiaoM\test_3_3\test_3_3\contact.c(36,29): warning C4028: 形参 1 与声明不同
+  test_3_3.vcxproj -> D:\BCXiaoM\test_3_3\x64\Debug\test_3_3.exe
